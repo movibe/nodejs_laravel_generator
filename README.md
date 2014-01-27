@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GenLaravel
 
 [![NPM](https://nodei.co/npm/generator-genlaravel.png?downloads=true)](https://nodei.co/npm/generator-genlaravel/) [![NPM](https://nodei.co/npm-dl/generator-genlaravel.png?months=3)](https://nodei.co/npm/generator-genlaravel/)
@@ -33,3 +34,9 @@ The features needed to be implemented are:
 - Adding Laravel 4 Generators Scaffolding Support
 - To Add Heroku Deployment
 - Add memcached and Redis support to vagrant setup
+=======
+nodejs_laravel_generator
+========================
+
+NodeJS Laravel Generator
+>>>>>>> bfc1469201e9f643131097b35ac5eaab3455009d

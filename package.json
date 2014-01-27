@@ -1,0 +1,40 @@
+{
+  "name": "generator-genlaravel",
+  "version": "1.0.2",
+  "description": "A Yeoman generator for Laravel",
+  "keywords": [
+    "yeoman-generator",
+    "laravel",
+    "yeoman",
+    "generator",
+    "cli"
+  ],
+  "main": "app/index.js",
+  "author": {
+    "name": "vijay sai"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "prompt": "~0.2.9",
+    "yeoman-generator": "~0.10.0",
+    "wrench": "~1.4.4",
+    "mysql": "~2.0.0-alpha7",
+    "chalk": "~0.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vijaysai/generator-genlaravel.git"
+  },
+  "readme": "# GenLaravel\r\n\r\n[![NPM](https://nodei.co/npm/generator-genlaravel.png?downloads=true)](https://nodei.co/npm/generator-genlaravel/) [![NPM](https://nodei.co/npm-dl/generator-genlaravel.png?months=3)](https://nodei.co/npm/generator-genlaravel/)\r\n\r\nThe [Yeoman](https://github.com/yeoman/yeoman) Generator for [Laravel](http://laravel.com/).  Genlaravel takes you from scratching your head wondering where to start, all the way to running laravel in few minutes.  I have configuration options that will help deploy and get started with laravel with ease.\r\n\r\n- Downloading laravel\r\n- Dowloading composer\r\n- installing laravel using composer\r\n- Configure Database Settings\r\n- Added vagrant Support\r\n\r\n## How To Use\r\n\r\nIf you do not already have the Yeoman installed install it now, and might as well install me at the same time *(NOTE: don't type the `$`)*:\r\n\r\n\t$ npm install -g yo generator-genlaravel\r\n\r\nAnd run me:\r\n\r\n\t$ yo genlaravel\r\n\t\r\nIn order to use Vagrant run:\r\n  \r\n       $ yo genlaravel --advanced\r\n\r\nFollow my prompts inorder to install laravel with ease.\r\n\r\n![image](http://i.imgur.com/gt8moSG.png)\r\n\r\n## Todo\r\nThe features needed to be implemented are:\r\n- Adding Laravel 4 Generators Scaffolding Support\r\n- To Add Heroku Deployment\r\n- Add memcached and Redis support to vagrant setup\r\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/vijaysai/generator-genlaravel/issues"
+  },
+  "homepage": "https://github.com/vijaysai/generator-genlaravel",
+  "_id": "generator-genlaravel@1.0.2",
+  "dist": {
+    "shasum": "f938712e400fdb9cd52f3e91d186d5d6808bde7f"
+  },
+  "_from": "generator-genlaravel@",
+  "_resolved": "https://registry.npmjs.org/generator-genlaravel/-/generator-genlaravel-1.0.2.tgz"
+}
